@@ -1,0 +1,20 @@
+"Passe une commande" (client)
+1. Le client se connecte sur son compte
+2. Le client consulte ces ordances
+3. Le client commande les médicaments dont il a de besoin
+4. Le client paye la commande
+5. Le système crée une nouvelle commande
+
+
+"Consulter l'état de sa commande" (client)
+1. Le client se connecte sur son compte
+2. Le client recherche sa commande dans son historique
+3. Le système ... 
+
+"Consulter l'état des drones" (pharmacien)
+
+
+"Confirmer la reception" (client)
+1. 
+
+"Refuser une commande" (pharmacien)
