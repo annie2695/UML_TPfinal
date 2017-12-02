@@ -1,20 +1,27 @@
 "Passe une commande" (client)
-1. Le client se connecte sur son compte
-2. Le client consulte ces ordances
-3. Le client commande les médicaments dont il a de besoin
-4. Le client paye la commande
-5. Le système crée une nouvelle commande
+1. Le client consulte ces ordances
+2. Le client commande les médicaments dont il a de besoin
+3. Le client paye la commande
+4. Le système crée une nouvelle commande
 
 
 "Consulter l'état de sa commande" (client)
-1. Le client se connecte sur son compte
-2. Le client recherche sa commande dans son historique
-3. Le système ... 
+1. Le client recherche sa commande dans son historique
+2. Le système affiche la page correspondant à la commande
 
-"Consulter l'état des drones" (pharmacien)
-
-
-"Confirmer la reception" (client)
-1. 
 
 "Refuser une commande" (pharmacien)
+1. Le pharmacien consulte les nouvelles commandes
+2. Le pharmacien consulte une commande en particulier
+3. Le pharmacien constate un problème et utilise l'interface pour annuler la commande
+4. Le système envoie un message automatisé au client l'invitant à modifier sa commande
+
+
+"Consulter l'état des drones" (Employé)
+1. L'employé recherche un drone dans la liste des drones.
+2. Le système affiche la page du drone avec ses coordonées.
+
+
+"Ajouter un client" (Employé ou admin)
+1. Entre les informations du nouveau client
+2. Le système crée un nouveau client dans la base de données.
